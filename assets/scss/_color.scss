@@ -8,7 +8,13 @@ $gray:#f7f7fd;
 
 // font-color
 // $heading-color:#2b044d;
-$heading-color:#252F60;
+$heading-color:#F18468;
+
+//my colors
+$text: #303030;
+$accent: #DBA9E3;
+$primary: #F39076;
+$features-bkg: #FFF4F1;
 
 //Theme color
 $theme-color: #8f1bdc;
@@ -109,3 +115,17 @@ $blue-bg1:#00163e;
 .theme-color {
 	color: $theme-color;
 }
+
+.text-color{
+	color: $text;
+}
+.accent-color{
+	color: $accent;
+}
+.primary-color{
+	color: $primary;
+}
+.features-bkg-color{
+	color: $features-bkg;
+}
+
