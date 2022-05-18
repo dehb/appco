@@ -12,7 +12,7 @@ p{
 }
 
 a {
-    color: #aa0a5f;
+    color: #303030;
 }
 
 a, a:hover, a:focus{
@@ -205,6 +205,10 @@ section p {
 .script-source li {
     list-style: square outside none;
     margin-bottom: 10px;
+}
+
+.features-bkg-color{
+    background-color: FFF4F1;
 }
 
 #twitter-feed li,
